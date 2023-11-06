@@ -1,0 +1,16 @@
+{
+    "title": "addition",
+    "questions": [
+        {
+            "question": "what is 1+1",
+            "answer": "2"
+            "mc": false,
+        },
+        {
+            "question": "what is 1+5",
+            "answer": "6",
+            "mc": true,
+            "mcoptions": ["3", "4", "5"]
+        }
+    ]
+}
